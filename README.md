@@ -1,7 +1,7 @@
-composer install
-npm install
-создать файл .env на основе .env.example и подключить базу данных
-php artisan key:generate  
-php artisan migrate
-npm run dev
-php artisan serve
+1. composer install
+2. npm install
+3. создать файл .env на основе .env.example и подключить базу данных
+4. php artisan key:generate  
+5. php artisan migrate
+6. npm run dev
+7. php artisan serve
